@@ -1,0 +1,12 @@
+{
+  "id": "febriyansyahresearch/wine-classification-quickstart",
+  "title": "Wine Classification Quickstart",
+  "code_file": "wine-classification-quickstart.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_internet": true,
+  "competition_sources": [],
+  "dataset_sources": []
+}
